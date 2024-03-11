@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_We need more information</name>
+   <tag></tag>
+   <elementGuidId>4f2e2b10-9a8f-4e55-bdab-0bfd3209ccc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.x193iq5w.xeuugli.x13faqbe.x1vvkbs.x10flsy6.x1lliihq.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xudqn12.xw06pyt.xngnso2.x1qb5hxa.x1xlr1w8.xzsf02u.x1yc453h</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'We need more information' or . = 'We need more information')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e53a9bd4-b2cf-441b-bbc2-664a955015fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 xw06pyt xngnso2 x1qb5hxa x1xlr1w8 xzsf02u x1yc453h</value>
+      <webElementGuid>b982ba79-7fee-4cf5-b16e-3231687475d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>7b00a50f-c989-49fe-be3a-b9e712e56194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We need more information</value>
+      <webElementGuid>b9360fce-5284-4d0d-ab5c-c6303c78fa77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollview&quot;)/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x1qjc9v5 x78zum5 xl56j7k x193iq5w x1t2pt76&quot;]/div[@class=&quot;x6s0dn4 x78zum5 xdt5ytf x193iq5w x1t2pt76 xh8yej3&quot;]/div[@class=&quot;x6s0dn4 x78zum5 xdt5ytf x1n2onr6 xh8yej3 x1ja2u2z x1ia4mhz&quot;]/div[@class=&quot;x14lw9ws xh8yej3&quot;]/div[@class=&quot;x78zum5 x1n2onr6 xh8yej3&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x2bj2ny x1qpq9i9 xdney7k xu5ydu1 xt3gfkd xh8yej3 x6ikm8r x10wlt62 xquyuld&quot;]/div[@class=&quot;x4k7w5x x1h91t0o x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1n2onr6 x1qrby5j x1jfb8zj&quot;]/div[1]/div[1]/div[@class=&quot;x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x1cnzs8 xx6bls6&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w x5ib6vp xc73u3c xw7yly9 x1yztbdb xzboxd6 x14l7nz5&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w x1xmf6yo x1e56ztr xzboxd6 x14l7nz5&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1wsgfga x9otpla&quot;]/div[@class=&quot;x1e56ztr x1xmf6yo&quot;]/span[@class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 xw06pyt xngnso2 x1qb5hxa x1xlr1w8 xzsf02u x1yc453h&quot;]</value>
+      <webElementGuid>458437d3-77f5-49a0-bf94-faadab8c4045</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollview']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>fcc2c26a-e231-4dd7-9625-cc93174eab2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>45c824b1-409e-43b5-aff1-425a3b640299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'We need more information' or . = 'We need more information')]</value>
+      <webElementGuid>eadea1d7-1a41-4a64-8922-83a1e838bc92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

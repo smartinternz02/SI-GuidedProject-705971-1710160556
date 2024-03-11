@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>FaceBook_RegistrationValidation_002</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a0fd48db-c5d7-4eb6-8a01-0a56a2502699</testSuiteGuid>
+   <testCaseLink>
+      <guid>cd43e76e-5045-44d6-8b4c-576a0dafba8b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_FaceBook_RegistrationValidation_002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5bcff269-b242-4e3e-b06a-5fdda87d56c5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/userData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5bcff269-b242-4e3e-b06a-5fdda87d56c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>dcf40e46-b49b-497b-acf8-95cd090faeca</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5bcff269-b242-4e3e-b06a-5fdda87d56c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>7d185c73-7fa3-424f-9614-0574febbdd56</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5bcff269-b242-4e3e-b06a-5fdda87d56c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>2d0a9d02-0fa1-46dc-8981-134f80679932</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5bcff269-b242-4e3e-b06a-5fdda87d56c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c97fe434-3586-4ab2-a17c-f8a4c24b4f6f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

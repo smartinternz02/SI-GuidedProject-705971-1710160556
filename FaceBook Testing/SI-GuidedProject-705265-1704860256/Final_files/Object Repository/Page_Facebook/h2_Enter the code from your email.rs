@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Enter the code from your email</name>
+   <tag></tag>
+   <elementGuidId>ef4ac3fe-29bf-45ef-8fb6-bae88ecb2ddb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/div/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.uiHeaderTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>fd5719fb-6afc-4d16-918a-11ba25dc21af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uiHeaderTitle</value>
+      <webElementGuid>91b3490b-468c-4faa-839c-610cf498979d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f659a735-b9d1-4f0f-b521-84f4175f3b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter the code from your email</value>
+      <webElementGuid>b6fb6954-7e3b-4e02-a7dd-ba2af065da90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;UIFullPage_Container&quot;]/div[@class=&quot;_8it_&quot;]/div[@class=&quot;mtl ptm uiInterstitial _1v_x uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;uiHeader uiHeaderBottomBorder mhl mts uiHeaderPage interstitialHeader&quot;]/div[@class=&quot;clearfix uiHeaderTop&quot;]/div[2]/h2[@class=&quot;uiHeaderTitle&quot;]</value>
+      <webElementGuid>c6c4baa9-8168-4ca8-a15e-7aa3fa890913</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/div/div[2]/h2</value>
+      <webElementGuid>8e7a4946-484e-4bac-b3fa-0f497c1f2e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>16bd767d-12e9-4a57-9dc0-0e0af836d5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Enter the code from your email' or . = 'Enter the code from your email')]</value>
+      <webElementGuid>32c9a4ee-3639-4476-92ed-92ae0d4c6a98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

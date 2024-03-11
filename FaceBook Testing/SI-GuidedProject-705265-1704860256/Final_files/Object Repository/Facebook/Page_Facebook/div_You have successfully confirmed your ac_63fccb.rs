@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_You have successfully confirmed your ac_63fccb</name>
+   <tag></tag>
+   <elementGuidId>f04da6a4-58a5-44d3-8bfc-3fc2a971907b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pam._13</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='facebook']/body/div[5]/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8bb4cbc7-0016-478b-a0e8-040abdab53d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pam _13</value>
+      <webElementGuid>8eecddbd-cfff-4186-b918-81b455c49659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have successfully confirmed your account with the email fijam63941@konican.com. You will use this email address to log in.</value>
+      <webElementGuid>c5dbb092-d10f-4bb9-8f5a-c544eb0e3486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;_4-u5 _8n26 _9l2i fbx hideBanner _-kb _605a m_2l9ovsfet chrome webkit x1 Locale_en_GB cores-gte4 _19_u&quot;]/div[@class=&quot;_10 uiLayer _4-hy _3qw&quot;]/div[@class=&quot;_1yv&quot;]/div[@class=&quot;_t _9l18&quot;]/div[1]/div[1]/div[@class=&quot;pam _13&quot;]</value>
+      <webElementGuid>fdd28cfc-2e0c-4beb-9885-c6949dc9ae79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='facebook']/body/div[5]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d69bb835-11d7-47ae-b606-d58d64e2867e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>ae1cf646-b6f6-43de-8a4c-facbfd0c18ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'You have successfully confirmed your account with the email fijam63941@konican.com. You will use this email address to log in.' or . = 'You have successfully confirmed your account with the email fijam63941@konican.com. You will use this email address to log in.')]</value>
+      <webElementGuid>947c60b3-d5e0-4b79-bd96-b24b4687bfbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
